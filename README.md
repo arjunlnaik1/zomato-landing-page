@@ -1,6 +1,4 @@
-# this is my zomato landing page
-
-# done with firt commit
+# This is my zomato landing clone page
 
 
-# other applicationgi
+
